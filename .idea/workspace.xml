@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0645d071-3328-4500-8082-501d891ab27c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\sangi\OneDrive\Desktop\springBoot\spring batch\original (1)\Working Files\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aXwIllsbrQ5y4UHlAdhlmaXPsl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0645d071-3328-4500-8082-501d891ab27c" name="Default Changelist" comment="" />
+      <created>1586895168326</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586895168326</updated>
+      <workItem from="1586895169546" duration="219000" />
+      <workItem from="1586895399567" duration="40000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="175" key="FileChooserDialogImpl" timestamp="1586895347489">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="175" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1586895347489" />
+    <state x="638" y="327" key="Github.ShareDialog" timestamp="1586895333343">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="638" y="327" key="Github.ShareDialog/0.0.1536.864@0.0.1536.864" timestamp="1586895333343" />
+    <state x="439" y="132" width="701" height="599" key="NewModule_or_Project.wizard" timestamp="1586895433967">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="439" y="132" width="701" height="599" key="NewModule_or_Project.wizard/0.0.1536.864@0.0.1536.864" timestamp="1586895433967" />
+  </component>
+</project>
