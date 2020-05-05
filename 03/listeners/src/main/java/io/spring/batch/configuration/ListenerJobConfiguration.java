@@ -34,7 +34,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.mail.javamail.JavaMailSender;
 
 /**
- * @author Michael Minella
+ * @author Sunil Niroula
  */
 @Configuration
 public class ListenerJobConfiguration {

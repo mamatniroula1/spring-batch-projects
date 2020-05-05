@@ -30,7 +30,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.transaction.PlatformTransactionManager;
 
 /**
- * @author Michael Minella
+ * @author Sunil Niroula
  */
 @Configuration
 public class ParentJobConfiguration {

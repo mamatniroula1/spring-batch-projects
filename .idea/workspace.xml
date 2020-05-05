@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0645d071-3328-4500-8082-501d891ab27c" name="Default Changelist" comment="" />
+    <list default="true" id="0645d071-3328-4500-8082-501d891ab27c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03/decisions/src/main/java/io/spring/batch/configuration/BatchConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/03/decisions/src/main/java/io/spring/batch/configuration/BatchConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03/flow/src/main/java/io/spring/batch/configuration/FlowConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/03/flow/src/main/java/io/spring/batch/configuration/FlowConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03/flow/src/main/java/io/spring/batch/configuration/FlowFirstConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/03/flow/src/main/java/io/spring/batch/configuration/FlowFirstConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03/flow/src/main/java/io/spring/batch/configuration/FlowLastConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/03/flow/src/main/java/io/spring/batch/configuration/FlowLastConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03/flow/src/main/java/io/spring/batch/configuration/SplitConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/03/flow/src/main/java/io/spring/batch/configuration/SplitConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03/jobParameters/src/main/java/io/spring/batch/configuration/JobConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/03/jobParameters/src/main/java/io/spring/batch/configuration/JobConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03/listeners/src/main/java/io/spring/batch/configuration/ListenerJobConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/03/listeners/src/main/java/io/spring/batch/configuration/ListenerJobConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03/listeners/src/main/java/io/spring/batch/listener/ChunkListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/03/listeners/src/main/java/io/spring/batch/listener/ChunkListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03/nestedJobs/src/main/java/io/spring/batch/configuration/ChildJobConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/03/nestedJobs/src/main/java/io/spring/batch/configuration/ChildJobConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03/nestedJobs/src/main/java/io/spring/batch/configuration/ParentJobConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/03/nestedJobs/src/main/java/io/spring/batch/configuration/ParentJobConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03/split/src/main/java/io/spring/batch/configuration/BatchConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/03/split/src/main/java/io/spring/batch/configuration/BatchConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03/transitions/src/main/java/io/spring/batch/configuration/StepTranstionConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/03/transitions/src/main/java/io/spring/batch/configuration/StepTranstionConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04/inputInterfaces/src/main/java/io/spring/batch/configuration/JobConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/04/inputInterfaces/src/main/java/io/spring/batch/configuration/JobConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04/inputInterfaces/src/main/java/io/spring/batch/reader/StatelessItemReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/04/inputInterfaces/src/main/java/io/spring/batch/reader/StatelessItemReader.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,6 +71,7 @@
       <updated>1586895168326</updated>
       <workItem from="1586895169546" duration="219000" />
       <workItem from="1586895399567" duration="40000" />
+      <workItem from="1588695443290" duration="464000" />
     </task>
     <servers />
   </component>
@@ -74,5 +91,9 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="439" y="132" width="701" height="599" key="NewModule_or_Project.wizard/0.0.1536.864@0.0.1536.864" timestamp="1586895433967" />
+    <state x="465" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1588695444439">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="465" y="258" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1588695444439" />
   </component>
 </project>

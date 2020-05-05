@@ -27,7 +27,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author Michael Minella
+ * @author Sunil Niroula
  */
 @Configuration
 public class FlowLastConfiguration {

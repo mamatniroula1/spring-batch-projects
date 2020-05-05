@@ -20,7 +20,7 @@ import org.springframework.batch.core.annotation.BeforeChunk;
 import org.springframework.batch.core.scope.context.ChunkContext;
 
 /**
- * @author Michael Minella
+ * @author Sunil Niroula
  */
 public class ChunkListener {
 

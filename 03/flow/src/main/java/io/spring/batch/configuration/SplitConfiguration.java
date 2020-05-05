@@ -32,7 +32,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.core.task.SimpleAsyncTaskExecutor;
 
 /**
- * @author Michael Minella
+ * @author Sunil Niroula
  */
 @Configuration
 public class SplitConfiguration {

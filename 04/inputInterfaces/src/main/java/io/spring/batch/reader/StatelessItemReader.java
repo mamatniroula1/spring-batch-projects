@@ -21,7 +21,7 @@ import java.util.List;
 import org.springframework.batch.item.ItemReader;
 
 /**
- * @author Michael Minella
+ * @author Sunil Niroula
  */
 public class StatelessItemReader implements ItemReader<String> {
 
